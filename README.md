@@ -1,0 +1,2 @@
+# simpleaipdfanalyser
+Analyze PDF file
