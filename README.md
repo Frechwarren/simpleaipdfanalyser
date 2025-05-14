@@ -4,17 +4,17 @@ This project is an AI-powered resume critiquing tool built with Python and Strea
 
 ## Features
 
-- **Resume Upload:** Supports PDF and TXT file uploads.
-- **Job Role Targeting:** Optionally specify the job role you are applying for to get more relevant feedback.
-- **AI-Powered Feedback:** Uses OpenAI's GPT models to analyze and critique your resume.
-- **Simple Web Interface:** Built with Streamlit for easy interaction.
+- **📄 Resume Upload:** Supports PDF and TXT file uploads.
+- **🎯 Job Role Targeting:** Optionally specify the job role you are applying for to get more relevant feedback.
+- **🤖 AI-Powered Feedback:** Uses OpenAI's GPT models to analyze and critique your resume.
+- **🌐 Simple Web Interface:** Built with Streamlit for easy interaction.
 
 ## Tools & Libraries Used
 
-- [Streamlit](https://streamlit.io/): For building the interactive web app.
-- [OpenAI API](https://platform.openai.com/): For generating resume critiques and suggestions.
-- [PyPDF2](https://pypi.org/project/PyPDF2/): For extracting text from PDF files.
-- [python-dotenv](https://pypi.org/project/python-dotenv/): For managing environment variables and API keys.
+- [![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-ff4b4b?logo=streamlit)](https://streamlit.io/) &nbsp; For building the interactive web app.
+- [![OpenAI](https://img.shields.io/badge/OpenAI-API-blue?logo=openai)](https://platform.openai.com/) &nbsp; For generating resume critiques and suggestions.
+- [![PyPDF2](https://img.shields.io/badge/PyPDF2-PDF_Parsing-yellow?logo=python)](https://pypi.org/project/PyPDF2/) &nbsp; For extracting text from PDF files.
+- [![python-dotenv](https://img.shields.io/badge/python--dotenv-Env_Vars-green?logo=python)](https://pypi.org/project/python-dotenv/) &nbsp; For managing environment variables and API keys.
 
 ## Setup Instructions
 
